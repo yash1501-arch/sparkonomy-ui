@@ -48,7 +48,7 @@ To start the development server, run the following command:
 npm run dev
 ```
 
-The application will be available at `http://localhost:5173`.
+The application will be available at `https://sparkonomy-ui-narayanp-2m5hjlh7y-yash1501-archs-projects.vercel.app/`.
 
 ## scripts-section-title Available Scripts
 

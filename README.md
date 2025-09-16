@@ -61,20 +61,3 @@ In the project directory, you can run:
 | `npm run test`  | Runs the tests in watch mode.                  |
 | `npm run lint`  | Lints the code using ESLint.                   |
 | `npm run format`| Formats the code using Prettier.               |
-
-## 📸 Screenshots
-
-### Desktop
-
-![Desktop Demo 1](public/demo-desktop-1.png)
-![Desktop Demo 2](public/demo-desktop-2.png)
-
-### Mobile
-
-![Mobile Demo 1](public/demo-mobile-1.png)
-![Mobile Demo 2](public/demo-mobile-2.png)
-![Mobile Demo 3](public/demo-mobile-3.png)
-
-## 📄 License
-
-This project is licensed under the MIT License.
